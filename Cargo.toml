@@ -5,3 +5,5 @@ authors = ["zakimal <oza777you@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+ncurses = "5.99.0"
+eventual = "0.1.7"
